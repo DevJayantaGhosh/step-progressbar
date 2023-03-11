@@ -1,2 +1,2 @@
 ## STEP Progress Bar
-### Athor @JayantaGhosh
+### Author @JayantaGhosh
